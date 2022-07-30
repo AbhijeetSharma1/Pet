@@ -68,12 +68,6 @@ For Brian Holt Notes click:
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/enraiha0307/React-Pet-Site/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -98,9 +92,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@AkankshaGahalot](https://twitter.com/AkankshaGahalot) 
+Your Name - [@AbhijeetSharma1](https://www.linkedin.com/in/abhijeetsharma1/) 
 
-Project Link: [https://github.com/enraiha0307/React-Pet-Site](https://github.com/enraiha0307/React-Pet-Site)
 
 
 
